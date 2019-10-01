@@ -1,3 +1,14 @@
+# hello-world
+
+Hola tech world,
+
+I'm Cody and I like ranch dressing, rollerblading, warehouse raves, and playing marbles (for keeps) with my neighbor, Paco. He usually wins so I don't have very many marbles left. 
+
+That's all. 
+
+
+
+
 # Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
